@@ -22,8 +22,4 @@ This project uses the Iris dataset to train and evaluate a **K-Nearest Neighbors
 - matplotlib
 - scikit-learn
 
-## How to Run
-1. Clone this repo
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy seaborn matplotlib scikit-learn
+
